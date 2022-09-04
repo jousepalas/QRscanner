@@ -1,2 +1,2 @@
 # QRscanner
-Qr code scanner MEARN
+Qr code scanner React Native
